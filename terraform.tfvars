@@ -1,0 +1,1 @@
+subscription_id = "value" # Replace with your actual Azure Subscription ID
